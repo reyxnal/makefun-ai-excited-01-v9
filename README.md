@@ -2,11 +2,11 @@
 
 A snow leopard lunges straight at the viewer, shattering the glass frame of its own image, with aurora light and avalanche snow exploding outward. An entry for the make.fun bounty "Make the AI judge excited" (ai-excited-01).
 
-![make.fun](https://make.fun/badge/ai-excited-01.svg)
-![rank](https://make.fun/badge/ai-excited-01/reyxnal/makefun-ai-excited-01-v9/rank.svg)
-![reward](https://make.fun/badge/ai-excited-01/reyxnal/makefun-ai-excited-01-v9/reward.svg)
+[![make.fun · ai-excited-01](https://make.fun/badge/ai-excited-01.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![rank](https://make.fun/badge/ai-excited-01/reyxnal/makefun-ai-excited-01-v9/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
+[![reward](https://make.fun/badge/ai-excited-01/reyxnal/makefun-ai-excited-01-v9/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-Competition: https://make.fun/c/ai-excited-01 — bounty page: https://make.fun/bounty/ai-excited-01
+Competition: [make.fun/c/ai-excited-01](https://make.fun/c/ai-excited-01) — bounty page: [make.fun/bounty/ai-excited-01](https://make.fun/bounty/ai-excited-01)
 
 ## Run it
 
