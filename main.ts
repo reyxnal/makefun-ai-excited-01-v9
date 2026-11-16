@@ -54,10 +54,12 @@ function imageSize(buf) {
 }
 
 const here = dirname(fileURLToPath(import.meta.url));
+if (process.argv.length > 2) {
+  fail("this program takes no arguments");
+}
 const outDir = process.env.MAKEFUN_OUTPUT_DIR;
-if (!outDir) {
-  console.error("MAKEFUN_OUTPUT_DIR is not set");
-  process.exit(1);
+if (!outDir || outDir.trim() === "") {
+  fail("MAKEFUN_OUTPUT_DIR is empty or not set");
 }
 const bytes = readFileSync(join(here, "entry.png"));
 if (bytes.length > MAX_BYTES) {
